@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/logile.png" alt="Logo" width="200">
+    <img src="./assets/logile1.png" alt="Logo" width="200">
 </p>
 
 <h2 align="center"> Logile India – IT Infrastructure Design Project </h2>
