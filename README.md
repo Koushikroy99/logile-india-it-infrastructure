@@ -83,3 +83,15 @@ This project simulates a real-world enterprise network using Cisco Packet Tracer
 ## 🙌 Author Note
 This project was created as part of an interview assignment, focusing on real-world network planning experience, security best practices, and scalability for business growth.
 
+---
+## 👨‍💻 About Me
+
+- **Koushik Roy**  
+- **GitHub**: [github.com/koushikroy99](https://github.com/koushikroy99)  
+- **LinkedIn**: [linkedin.com/in/koushikroy99](https://www.linkedin.com/in/koushikroy99/)  
+- **Twitter**: [x.com/koushikroyfx](https://x.com/koushikroyfx)  
+- **Email**: koushikroy05042001@gmail.com  
+- **Portfolio**: [koushikroy.in](https://www.koushikroy.in/)  
+
+---
+
