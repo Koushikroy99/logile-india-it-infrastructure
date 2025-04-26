@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./assets/logile.png" alt="Logo" width="200">
+</p>
+
 # Logile India – IT Infrastructure Design Project
 
 ## 📢 Company Overview
