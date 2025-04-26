@@ -2,7 +2,7 @@
     <img src="./assets/logile.png" alt="Logo" width="200">
 </p>
 
-# Logile India – IT Infrastructure Design Project
+<h2 align="center"> Logile India – IT Infrastructure Design Project </h2>
 
 ## 📢 Company Overview
 Logile India provides AI-driven, data-centric workforce management solutions for retail businesses. Their services include labor planning, execution, employee scheduling, and operations optimization for real-time adaptability.
