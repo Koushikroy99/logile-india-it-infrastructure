@@ -68,7 +68,7 @@ This project simulates a real-world enterprise network using Cisco Packet Tracer
 ## 📁 Files Included
 
 - `Secure-Company-Project-Logile-IT.pkt` – Cisco Packet Tracer simulation file.
-- `Logile India img.pdf` – Floor-wise logical diagram and department mapping.
+- `Logile-India-img.pdf` – Floor-wise logical diagram and department mapping.
 
 ---
 
